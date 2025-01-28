@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
    cd expenses-tracker
 
 
-2.Backend Setup
+2.  Backend Setup
 
 Navigate to the backend directory:
     cd backend
@@ -72,21 +72,29 @@ Start the backend server:
      npm i react-router-dom
      npm run dev
 
-4.Access the Application
+4.  Access the Application
 
 Open your browser and visit: http://localhost:5173
 
-Usage
+Usage:
+
 Sign Up/Login: Create an account or log in with existing credentials.
+
 Add Expenses: Log your daily expenses with a category and amount.
+
 View Analytics: Check monthly and category-wise spending patterns.
+
 Download Reports: Export your expense history for offline use.
 
-Future Enhancements
+Future Enhancements:
+
 Integration with bank APIs for automated expense logging.
+
 Multi-currency support.
+
 AI-based expense categorization suggestions.
 
 
-License
+License:
+
 This project is licensed under the MIT License.
